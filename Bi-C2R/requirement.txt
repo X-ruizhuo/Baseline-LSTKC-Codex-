@@ -18,7 +18,7 @@ scipy
 tensorboard
 tensorflow
 timm
-tokenizers
+tokenizers==0.13.3
 tqdm
 yacs
 prettytable
